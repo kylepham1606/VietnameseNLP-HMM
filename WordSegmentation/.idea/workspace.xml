@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6c8928dd-d8d1-44d7-aad7-1677a935b408" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="CompareResultsHMM.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CompareResultsHMM.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="129" column="22" selection-start-line="129" selection-start-column="22" selection-end-line="129" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dictionary1.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dictionary1.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="PyviWordSegment.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PyviWordSegment.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="213">
+              <caret line="62" selection-start-line="62" selection-end-line="62" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="10-0001.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestResults/10-0001.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-121">
+              <caret column="62" selection-start-column="62" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="150007.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestResults/150007.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="qa.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestFiles/qa.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="GenerateDictionary.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/GenerateDictionary.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Q&amp;A-VA-Questions.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CompareTools/Q&amp;A-VA-Questions.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="5783" column="32" selection-start-line="5783" selection-start-column="32" selection-end-line="5783" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>fout</find>
+      <find>va chạm</find>
+      <find>Hươu là</find>
+      <find>bimorpheme_segment</find>
+      <find>Mới</find>
+      <find>print</find>
+      <find>\</find>
+      <find>$</find>
+      <find>Người từng</find>
+      <find>Người dạy ở</find>
+      <find>mang tên</find>
+      <find>Người dạy</find>
+      <find>mang</find>
+      <find>mang tên Rạch_Giá</find>
+      <find>bôbin</find>
+      <find>lên mặt trăng</find>
+      <find>lớn nhất Việt_Nam</find>
+      <find>lớn nhất Việt_Nam \.</find>
+      <find>^$</find>
+      <find>nhà giáo \.</find>
+      <find>nhà_giáo \.</find>
+      <find>Rạch_Giá \.</find>
+      <find>Việt_Nam \.</find>
+      <find>\s\.</find>
+      <find>việc_gì</find>
+      <find>hoà</find>
+      <find>ca</find>
+      <find>] = emission_boundary[key]</find>
+      <find>minh</find>
+      <find />
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>tags_dict</replace>
+      <replace>unique_tags</replace>
+      <replace>previous_tag</replace>
+      <replace>emission_boundary</replace>
+      <replace>bimorpheme</replace>
+      <replace>state</replace>
+      <replace>max_value</replace>
+      <replace>most_probable_state</replace>
+      <replace>previous_state_1</replace>
+      <replace>state_sequence</replace>
+      <replace>thuần dưỡng</replace>
+      <replace>file_name</replace>
+      <replace>train_files</replace>
+      <replace>states_len</replace>
+      <replace>là loài</replace>
+      <replace>)</replace>
+      <replace>_</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/sample_result.txt" />
+        <option value="$PROJECT_DIR$/sample_document.txt" />
+        <option value="$USER_HOME$/Downloads/VnMarMoT-master/VnMarMoT-master/Utility.py" />
+        <option value="$PROJECT_DIR$/sample_word_data.txt" />
+        <option value="$PROJECT_DIR$/WordSegmentation.py" />
+        <option value="$USER_HOME$/Downloads/Viterbi-Bigram-HMM-Parts-Of-Speech-Tagger-master/Viterbi-Bigram-HMM-Parts-Of-Speech-Tagger-master/Viterbi_Reduced_POS_WSJ.py" />
+        <option value="$USER_HOME$/Downloads/Viterbi-Bigram-HMM-Parts-Of-Speech-Tagger-master/Viterbi-Bigram-HMM-Parts-Of-Speech-Tagger-master/Viterbi_POS_WSJ.py" />
+        <option value="$PROJECT_DIR$/WordToVec.py" />
+        <option value="C:/VTCC/Test/VnCoreNLP-master/VnCoreNLP-master/TestResult/140002.txt" />
+        <option value="C:/VTCC/Test/VnCoreNLP-master/VnCoreNLP-master/TestResult/10-0002.txt" />
+        <option value="C:/VTCC/Test/VnCoreNLP-master/VnCoreNLP-master/TestResult/CompareResults.py" />
+        <option value="C:/VTCC/Test/VnCoreNLP-master/VnCoreNLP-master/TestResult/CompareResultsRDRsegmenter.py" />
+        <option value="C:/VTCC/Test/VnCoreNLP-master/VnCoreNLP-master/TestResult/HMMWordSegmenter.py" />
+        <option value="$PROJECT_DIR$/venv/ReadTrainingData.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Temp1_GuyZ-hmm-ac303d2af854.zip/GuyZ-hmm-ac303d2af854/hmm/_BaseHMM.py" />
+        <option value="$PROJECT_DIR$/UnusedCode.py" />
+        <option value="$PROJECT_DIR$/TrigramHMM.py" />
+        <option value="C:/VTCC/Test/Vietnamese-word-segmentation-tool-master/Vietnamese-word-segmentation-tool-master/Datasets-Example/Input/10-0001.txt" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" />
+        <option value="C:/VTCC/Test/Vietnamese-word-segmentation-tool-master/Vietnamese-word-segmentation-tool-master/Datasets-Example/Input/10-0007.txt" />
+        <option value="C:/VTCC/Test/Vietnamese-word-segmentation-tool-master/Vietnamese-word-segmentation-tool-master/Datasets-Example/Output/10-0007.txt" />
+        <option value="C:/VTCC/Test/Vietnamese-word-segmentation-tool-master/Vietnamese-word-segmentation-tool-master/Datasets-Example/Output/10-0005.txt" />
+        <option value="C:/VTCC/Test/Vietnamese-word-segmentation-tool-master/Vietnamese-word-segmentation-tool-master/Datasets-Example/Output/10-0001.txt" />
+        <option value="$PROJECT_DIR$/HMMWordSegmenter.py" />
+        <option value="$PROJECT_DIR$/ReadTrainingData.py" />
+        <option value="$PROJECT_DIR$/CompareTools/Q&amp;A-VA-Questions.txt" />
+        <option value="$PROJECT_DIR$/CompareTools/Q&amp;A-VA-Questions.txt.WS" />
+        <option value="$PROJECT_DIR$/Generate dictionary.py" />
+        <option value="$PROJECT_DIR$/PyviWordSegment.py" />
+        <option value="$PROJECT_DIR$/CompareResultsHMM.py" />
+        <option value="$PROJECT_DIR$/GenerateDictionary.py" />
+        <option value="$PROJECT_DIR$/dictionary2.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-9" />
+    <option name="width" value="978" />
+    <option name="height" value="1039" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="WordSegmentation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WordSegmentation" type="47feb1d3:ProjectViewModuleNode" />
+            </path>
+            <path>
+              <item name="WordSegmentation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WordSegmentation" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="WordSegmentation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WordSegmentation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WordSegmentation" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="WordSegmentation" type="462c0819:PsiDirectoryNode" />
+              <item name="TestResults" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WordSegmentation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="WordSegmentation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT" />
+    <property name="idea.background.editor" value="C:\Photos for Landscape Paintings\sunset-mountain-lake-1920x1080.jpg,20,scale,center" />
+    <property name="last.edited.regexp" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../WordSegmentation2/venv" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\phamp\PycharmProjects\WordSegmentation" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\phamp\PycharmProjects\WordSegmentation" />
+      <recent name="C:\Users\phamp\PycharmProjects\WordSegmentation\venv" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.GenerateDictionary">
+    <configuration name="CompareResultsHMM" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="WordSegmentation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CompareResultsHMM.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="GenerateDictionary" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="WordSegmentation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GenerateDictionary.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="HMMWordSegmenter (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="WordSegmentation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HMMWordSegmenter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="HMMWordSegmenter" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false" temporary="true">
+      <module name="WordSegmentation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\phamp\AppData\Local\Programs\Python\Python36-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="C:/VTCC/Test/VnCoreNLP-master/VnCoreNLP-master/TestResult" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:/VTCC/Test/VnCoreNLP-master/VnCoreNLP-master/TestResult/HMMWordSegmenter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="PyviWordSegment" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="WordSegmentation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyviWordSegment.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.HMMWordSegmenter" />
+      <item itemvalue="Python.HMMWordSegmenter (1)" />
+      <item itemvalue="Python.CompareResultsHMM" />
+      <item itemvalue="Python.PyviWordSegment" />
+      <item itemvalue="Python.GenerateDictionary" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.GenerateDictionary" />
+        <item itemvalue="Python.CompareResultsHMM" />
+        <item itemvalue="Python.PyviWordSegment" />
+        <item itemvalue="Python.HMMWordSegmenter" />
+        <item itemvalue="Python.HMMWordSegmenter (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c8928dd-d8d1-44d7-aad7-1677a935b408" name="Default" comment="" />
+      <created>1528790022851</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528790022851</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18880208" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29411766" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39534885" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32968536" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="11" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://C:/VTCC/Test/Vietnamese-word-segmentation-tool-master/Vietnamese-word-segmentation-tool-master/Datasets-Example/Input/10-0001.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-306">
+          <caret column="50" selection-start-column="50" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample_result.txt" />
+    <entry file="file://C:/VTCC/Test/VnCoreNLP-master/VnCoreNLP-master/TestResult/10-0001.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1814">
+          <caret line="962" lean-forward="true" selection-start-line="962" selection-end-line="962" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/VTCC/Test/Vietnamese-word-segmentation-tool-master/Vietnamese-word-segmentation-tool-master/Datasets-Example/Output/900012.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-595">
+          <caret line="16" column="96" selection-start-line="16" selection-start-column="96" selection-end-line="16" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/POS-Tagger-hmm-master/POS-Tagger-hmm-master/hmmdecode3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="622">
+          <caret line="98" column="18" selection-start-line="98" selection-start-column="18" selection-end-line="98" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmmmodel.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1580">
+          <caret column="1079082" selection-start-column="1079082" selection-end-column="1079082" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/VTCC/Test/VnCoreNLP-master/VnCoreNLP-master/TestResult/CompareResultsVnCoreNLP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1689">
+          <caret line="262" column="36" lean-forward="true" selection-start-line="262" selection-start-column="36" selection-end-line="262" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/VTCC/Test/VnCoreNLP-master/VnCoreNLP-master/TestResult/10-0005.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/VTCC/Test/VnCoreNLP-master/VnCoreNLP-master/TestResult/CompareResultsRDRsegmenter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-408">
+          <caret selection-end-line="88" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestResults/10-0006.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestResults/10-0002.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="25" column="92" selection-start-line="25" selection-start-column="92" selection-end-line="25" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/VTCC/Test/Vietnamese-word-segmentation-tool-master/Vietnamese-word-segmentation-tool-master/Datasets-Example/Output/10-0002.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="94" selection-start-line="9" selection-start-column="94" selection-end-line="9" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/VTCC/Test/Vietnamese-word-segmentation-tool-master/Vietnamese-word-segmentation-tool-master/Datasets-Example/Output/10-0006.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/VTCC/Test/Vietnamese-word-segmentation-tool-master/Vietnamese-word-segmentation-tool-master/Datasets-Example/Input/10-0005.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-821" />
+      </provider>
+    </entry>
+    <entry file="file://C:/VTCC/Test/Vietnamese-word-segmentation-tool-master/Vietnamese-word-segmentation-tool-master/Datasets-Example/Input/10-0007.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/VTCC/Test/Vietnamese-word-segmentation-tool-master/Vietnamese-word-segmentation-tool-master/Datasets-Example/Output/10-0007.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="61" lean-forward="true" selection-start-line="19" selection-start-column="61" selection-end-line="19" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/VTCC/Test/Vietnamese-word-segmentation-tool-master/Vietnamese-word-segmentation-tool-master/Datasets-Example/Output/150005.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1122" />
+      </provider>
+    </entry>
+    <entry file="file://C:/VTCC/Test/Vietnamese-word-segmentation-tool-master/Vietnamese-word-segmentation-tool-master/Datasets-Example/Input/150005.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1144" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestResults/150005.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-70">
+          <caret line="63" column="36" lean-forward="true" selection-start-line="63" selection-start-column="36" selection-end-line="63" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestResults/10-0007.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/VTCC/Test/Vietnamese-word-segmentation-tool-master/Vietnamese-word-segmentation-tool-master/Datasets-Example/Input/150006.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestResults/150006.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="156" lean-forward="true" selection-start-line="154" selection-end-line="156" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/VTCC/Test/Vietnamese-word-segmentation-tool-master/Vietnamese-word-segmentation-tool-master/Datasets-Example/Output/150006.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="156" lean-forward="true" selection-start-line="156" selection-end-line="156" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/VTCC/Test/Vietnamese-word-segmentation-tool-master/Vietnamese-word-segmentation-tool-master/Datasets-Example/Output/10-0005.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestResults/10-0005.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-617">
+          <caret line="11" column="63" lean-forward="true" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WordToVec.py" />
+    <entry file="file://$PROJECT_DIR$/UnusedCode.py" />
+    <entry file="file://$PROJECT_DIR$/TrigramHMM.py" />
+    <entry file="file://$PROJECT_DIR$/sample_word_data.txt" />
+    <entry file="file://$PROJECT_DIR$/sample_document.txt" />
+    <entry file="file://C:/VTCC/Test/Vietnamese-word-segmentation-tool-master/Vietnamese-word-segmentation-tool-master/Datasets-Example/Output/10-0001.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MaximalMatchingWordSegmentation.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/timeit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="177" selection-start-line="177" selection-end-line="177" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestResults/900011.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadTrainingData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4352">
+          <caret line="258" column="10" selection-start-line="258" selection-start-column="10" selection-end-line="258" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CompareTools/Q&amp;A-VA-Questions.txt.WS">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97954">
+          <caret line="5762" column="17" selection-start-line="5762" selection-start-column="17" selection-end-line="5762" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/VTCC/Test/Vietnamese-word-segmentation-tool-master/Vietnamese-word-segmentation-tool-master/Datasets-Example/Input/900011.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/VTCC/Test/Vietnamese-word-segmentation-tool-master/Vietnamese-word-segmentation-tool-master/Datasets-Example/Output/900011.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="2" column="164" selection-start-line="2" selection-start-column="161" selection-end-line="2" selection-end-column="164" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HMMWordSegmenter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="272" column="4" selection-start-line="272" selection-start-column="4" selection-end-line="273" selection-end-column="78" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestFiles/qa.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestResults/150007.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestResults/10-0001.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-121">
+          <caret column="62" selection-start-column="62" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCorrectResults/110001.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/incorrect-pairs.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51477" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyviWordSegment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CompareResultsHMM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="129" column="22" selection-start-line="129" selection-start-column="22" selection-end-line="129" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dictionary1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/idfs.popular">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-918" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CompareTools/Q&amp;A-VA-Questions.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="5783" column="32" selection-start-line="5783" selection-start-column="32" selection-end-line="5783" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dictionary2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188245">
+          <caret line="100866" column="2" selection-start-line="100866" selection-start-column="2" selection-end-line="100866" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GenerateDictionary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
